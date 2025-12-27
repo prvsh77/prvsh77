@@ -1,4 +1,4 @@
-<h1 align="center">Prashant Rao</h1>
+<h1 align="center">M Prashant Rao</h1>
 <h3 align="center">AI Engineer | Machine Learning | System-Oriented AI</h3>
 
 <p align="center">
