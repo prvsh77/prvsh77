@@ -1,24 +1,24 @@
 <h1 align="center">M Prashant Rao</h1>
-<h3 align="center">AI Engineer | Machine Learning | System-Oriented AI</h3>
+<h3 align="center">Computer Science | Machine Learning | System-Oriented AI</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Applied%20AI-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/System--Centric%20AI-green?style=flat-square" />
+<img src="https://img.shields.io/badge/System--Centric%20Design-green?style=flat-square" />
 </p>
 
 <p align="center">
-I build reliable, real-world AI systems with a focus on architecture, evaluation, and deployment rather than isolated model performance.
+I build reliable, real-world data and machine learning systems with a focus on architecture, evaluation, and deployment rather than isolated model performance.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔹 AI Engineer focused on **system-centric AI**, not just model training  
-- 🔹 Experience building **end-to-end ML and LLM-based applications**  
-- 🔹 Strong interest in **AI reliability, evaluation, and failure-aware design**  
-- 🔹 Prefer clarity, structure, and correctness over hype-driven solutions  
+- 🔹 Computer Science student with a focus on **applied machine learning and AI systems**
+- 🔹 Experience building **end-to-end ML and LLM-enabled applications**
+- 🔹 Strong interest in **system reliability, evaluation, and failure-aware design**
+- 🔹 Prefer clarity, structure, and correctness over hype-driven solutions
 
 ---
 
@@ -39,17 +39,18 @@ I build reliable, real-world AI systems with a focus on architecture, evaluation
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🧩 TalentScout – AI Hiring Assistant
-AI-powered hiring assistant chatbot for initial technical screening.
+AI-powered hiring assistant chatbot designed for **initial technical screening**, with emphasis on **system flow and evaluation reliability**.
 
 - ✔ Dynamic question generation  
 - ✔ Structured response evaluation  
-- ✔ Focus on system flow and reliability  
+- ✔ Failure-aware system design  
 
 **Tech:** Python, NLP, LLMs  
 🔗 https://github.com/prvsh77/talentscout-ai-hiring-assistant
@@ -57,11 +58,11 @@ AI-powered hiring assistant chatbot for initial technical screening.
 ---
 
 ### 📦 FedEx Delivery Analytics Dashboard
-AI-powered delivery analytics dashboard with real-time insights.
+Data-driven analytics dashboard providing **operational insights and anomaly detection** for delivery data.
 
 - ✔ Interactive dashboards  
-- ✔ Anomaly detection  
 - ✔ ML-based delay prediction  
+- ✔ Analytical storytelling through data  
 
 **Tech:** Streamlit, Plotly, Scikit-learn  
 🔗 https://github.com/prvsh77/FedEx-Delivery-Analytics-Dashboard
@@ -69,10 +70,10 @@ AI-powered delivery analytics dashboard with real-time insights.
 ---
 
 ### 🗄️ Text-to-SQL System
-Natural language to SQL query generation system.
+Natural language interface for querying structured databases with a focus on **correctness and interpretability**.
 
 - ✔ Schema-aware SQL generation  
-- ✔ Emphasis on correctness and interpretability  
+- ✔ Emphasis on deterministic outputs  
 
 **Tech:** Python, NLP  
 🔗 https://github.com/prvsh77/Text-to-Sql
@@ -98,4 +99,6 @@ Natural language to SQL query generation system.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/prvsh77">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=wh
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
