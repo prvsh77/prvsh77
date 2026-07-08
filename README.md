@@ -34,7 +34,11 @@
 
 ---
 
-## 👨‍💻 About Me - 🔹 Computer Science student with a focus on **applied machine learning and AI systems** - 🔹 Experience building **end-to-end ML and LLM-enabled applications** - 🔹 Strong interest in **system reliability, evaluation, and failure-aware design** - 🔹 Prefer clarity, structure, and correctness over hype-driven solutions ---
+## 👨‍💻 About Me - 
+🔹 Computer Science student with a focus on **applied machine learning and AI systems** - 
+🔹 Experience building **end-to-end ML and LLM-enabled applications** - 
+🔹 Strong interest in **system reliability, evaluation, and failure-aware design** - 
+🔹 Prefer clarity, structure, and correctness over hype-driven solutions ---
 
 # 🎯 Current Focus
 
