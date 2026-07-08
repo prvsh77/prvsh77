@@ -265,17 +265,7 @@ I enjoy building things from first principles and understanding how AI systems w
 
 </div>
 
----
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prvsh77&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -574,15 +564,7 @@ Python • NLP
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # ❤️ Support My Work
 
