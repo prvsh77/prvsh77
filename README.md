@@ -40,16 +40,6 @@
 🔹 Strong interest in **system reliability, evaluation, and failure-aware design** - 
 🔹 Prefer clarity, structure, and correctness over hype-driven solutions ---
 
-# 🎯 Current Focus
-
-- 🚀 Building **AI Engineering From Scratch**
-- 🧠 Designing production-ready AI Agents
-- 📚 Developing advanced RAG systems
-- ⚙️ Learning AI Infrastructure & LLMOps
-- 🌍 Contributing to Open Source AI
-- 📖 Reading AI Research Papers every week
-
----
 
 # 💡 Philosophy
 
@@ -155,15 +145,7 @@ I enjoy building things from first principles and understanding how AI systems w
 
 ---
 
-# ⚡ Fun Facts
 
-- 💻 I love building AI systems from scratch.
-- 📚 I enjoy reading research papers.
-- 🌍 Open-source contributor.
-- 🤖 Passionate about LLM Engineering.
-- 🚀 Always learning something new.
-
----
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
