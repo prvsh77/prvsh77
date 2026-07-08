@@ -34,22 +34,7 @@
 
 ---
 
-# 🚀 About Me
-
-I'm a Computer Science undergraduate passionate about building **production-ready AI systems** that solve real-world problems.
-
-Instead of training isolated models, I enjoy designing complete AI systems involving:
-
-- 🤖 Large Language Models
-- 🧠 AI Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Infrastructure
-- 🔍 Evaluation Pipelines
-- 💻 Full Stack AI Applications
-
-I believe AI Engineering is more than prompting models—it's about designing reliable, scalable, observable, and production-ready intelligent systems.
-
----
+## 👨‍💻 About Me - 🔹 Computer Science student with a focus on **applied machine learning and AI systems** - 🔹 Experience building **end-to-end ML and LLM-enabled applications** - 🔹 Strong interest in **system reliability, evaluation, and failure-aware design** - 🔹 Prefer clarity, structure, and correctness over hype-driven solutions ---
 
 # 🎯 Current Focus
 
