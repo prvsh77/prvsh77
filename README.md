@@ -49,6 +49,85 @@ I enjoy building things from first principles and understanding how AI systems w
 
 ---
 
+# 🛠️ Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css,bash"/>
+
+</p>
+
+---
+
+## 🤖 AI • Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+---
+
+## ☁️ Cloud • DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
+
+</p>
+
+---
+
+## 📊 Data Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+
+</p>
+---
+
 # 🧠 AI Expertise
 
 <table>
@@ -144,86 +223,6 @@ I enjoy building things from first principles and understanding how AI systems w
 </table>
 
 ---
-
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css,bash"/>
-
-</p>
-
----
-
-## 🤖 AI • Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌐 Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
-</p>
-
----
-
-## ☁️ Cloud • DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
-
-</p>
-
----
-
-## 📊 Data Science
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 📊 GitHub Analytics
