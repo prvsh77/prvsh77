@@ -1,8 +1,13 @@
 <div align="center">
 
+<img src="readme_card_final.png" width="100%"/>
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm M Prashant Rao
 
-### AI Engineer • LLM Systems • Agentic AI • Open Source
+### AI Engineer • Software Engineer • LLM Systems • Agentic AI • Open Source
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;LLM+Engineer;RAG+Developer;Agentic+AI+Builder;Open+Source+Contributor;Building+AI+Engineering+From+Scratch)](https://git.io/typing-svg)
 
