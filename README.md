@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-# 👋 Hi, I'm M Prashant Rao
+#  Hi, I'm M Prashant Rao
 
 ### AI Engineer • Software Engineer • LLM Systems • Agentic AI • Open Source
 
